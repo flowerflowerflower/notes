@@ -8,7 +8,7 @@ import kotlinx.coroutines.runBlocking
 
 fun main()= runBlocking {
     launch {
-        delay(1000L)
+        delay(100L)
         println("Task from runBlocking")
     }
 
