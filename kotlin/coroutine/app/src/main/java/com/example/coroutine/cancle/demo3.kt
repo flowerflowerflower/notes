@@ -17,7 +17,7 @@ fun main() = runBlocking {
             println("job: I'm running finally")
         }
     }
-    delay(200L)
+    delay(2000L)
     println("main: I'm tired of waiting!")
     job.cancelAndJoin()
     println("main: Now I can quit.")
