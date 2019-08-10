@@ -60,7 +60,7 @@ adv 心理上地；心理学地
  I am haunted by my mother with severe postnatal depression.Years ago,I took proper care of the baby.but I  missed the mother's distress .as did everyone else.
  Research  into postnatal depression in particular has undersored the importance of checking up on parents' mental health in the first mouths of a bady's life.
  But a parent's depression,it turms out,can be linked to all kinds to all kinds of problem ,even in the lives of older children.
- "Depression is an illness that  feeds upon itself" said Dr,Wiliam Beardsle,professor of child psychiatry  at Harvard Medical School,who has spent  his carrer 
+ "Depression is an illness that  feeds upon itself" said Dr,Wiliam Beardsle,professor of child psychiatry  at Harvard Medical School,who has spent his carrer.
 
 
 
