@@ -9,6 +9,6 @@ The two contries are arguing over South rulings that order janpanse companies to
 Janpan colonized the  Peninsula from 1910 tp 1945. The country says that a 1965 agreement,which normalized relations between the two countries,settled any money issues.
 Janpan's chief  cabinet secretary,Yoshihide  suge,said Wednsday that the measures are related to Janpan's  national security concers,He denied that the move was in answer to japan's anger over the court rulings.
 He called the measures "necessary ...from a national security point of view
-
-
-
+Suga also said "it was not intended to affect Japan-South korea relations."
+Japanese officials have denied South Korea back to normal status."
+````````````````````````````````````````````````````
