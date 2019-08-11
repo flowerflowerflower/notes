@@ -21,5 +21,5 @@ fun main()= runBlocking {
         println("Task from coroutine scope") // 这一行会在内嵌 launch 之前输出
     }
 
-    println("Coroutine scope is over") // 这一行在内嵌 launch 执行完毕后才输出
+    println("Coroutine scopeover") // 这一行在内嵌 launch 执行完毕后才输出
 }
