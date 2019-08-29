@@ -1,10 +1,7 @@
 package com.example.coroutine.asyio
 
 import kotlinx.coroutines.delay
-import kotlinx.coroutines.flow.Flow
-import kotlinx.coroutines.flow.collect
-import kotlinx.coroutines.flow.conflate
-import kotlinx.coroutines.flow.flow
+import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.runBlocking
 import kotlin.system.measureTimeMillis
 
@@ -17,12 +14,24 @@ fun zc():Flow<Int> = flow{
 
 
 
-fun main() = runBlocking<Unit> {
+//fun main() = runBlocking<Unit> {
+//
+//    val time= measureTimeMillis {
+//        zc().conflate().collect{
+//            delay(300)
+//            println(it)
+//        }
+//    }
+//
+//    println("time $time")
+//}
 
-    val time= measureTimeMillis {
-        zc().conflate().collect{
+fun main()= runBlocking <Unit>{
+    val time = measureTimeMillis {
+        zc().collectLatest {
+            println("Collecting $it")
             delay(300)
-            println()
+            println("Done $it")
         }
     }
 }
