@@ -19,7 +19,7 @@ This was  eventually replaced by some kind of wooden structure,which was replace
 最后被木制结构替换，接着被一圈圈大量树立的石头取代。
 
 The stones at Stonehenge were brought there over  a period  of serveral hundred years.
-巨石阵中的石头被带过来，持续了好几百年。
+巨石阵中的石头被 带过来，持续了好几百年。
 
 
 
